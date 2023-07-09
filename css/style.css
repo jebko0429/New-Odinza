@@ -18,6 +18,7 @@
 p {
 	color: black;
         font-family: 'Aguafina';
+	font-size: 12px;
         font-weight: 100;
 }
 
@@ -86,7 +87,7 @@ These are just a few examples of pseudo-class selectors. There are many more ava
  */
 
 html {
-  background-color: #00539f;
+  background-color: cyan;
 }
 
 body {
