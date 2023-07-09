@@ -1,7 +1,7 @@
 /*comments*/
 
 @font-face {
-	font-family: 'open_sans', 'Arial';
+	font-family: '';
 	src: url('fonts/OpenSans-BoldItalic-webfont.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
@@ -9,8 +9,8 @@
 
 @font-face {
 	font-family: '1942_report1942_report';
-	src: url('fonts/1942-webfont.woff') format('woff');
-	font-weight: 100;
+	src: url('fonts/AguafinaScript-Regular.ttf') format('ttf');
+	font-weight: normal;
 	font-style: normal;
 }
 
@@ -24,8 +24,8 @@
 
 p {
 	color: black;
-        font-family: '1942_report1942_report';
-        font-size 48px;
+        font-family: 'Aguafina';
+        font-weight: 100;
 }
 
 /*div {
