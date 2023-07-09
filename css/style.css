@@ -79,8 +79,8 @@
 
 p {
 	color: gold;
-        font-family: 'open_sans';
-        font-size: 48px;
+        font-family: 'open_sans', 'ExtraBoldItalic';
+        font-size 48px;
 }
 
 div {
