@@ -2,6 +2,7 @@
 
 .cc {
 	color: gray;
+	font-size: 24px
 }
 
 
@@ -28,3 +29,49 @@ h1, h2 {
 
 
 }
+
+/*PSEUDO-CLASS selectors:
+
+* **:hover** - Selects an element when the mouse is hovering over it. For example, the following CSS rule will change the color of all `<a>` elements to red when the mouse is hovering over them:
+
+```
+a:hover {
+  color: red;
+}
+```
+
+* **:active** - Selects an element when it is being clicked. For example, the following CSS rule will change the background color of all `<button>` elements to green when they are being clicked:
+
+```
+button:active {
+  background-color: green;
+}
+```
+
+* **:focus** - Selects an element when it has focus. For example, the following CSS rule will change the border color of all `<input>` elements to blue when they have focus:
+
+```
+input:focus {
+  border-color: blue;
+}
+```
+
+* **:visited** - Selects an element that has been visited by the user. For example, the following CSS rule will change the color of all `<a>` elements that have been visited to purple:
+
+```
+a:visited {
+  color: purple;
+}
+```
+
+* **:link** - Selects an element that has not been visited by the user. For example, the following CSS rule will change the color of all `<a>` elements that have not been visited to blue:
+
+```
+a:link {
+  color: blue;
+}
+```
+
+These are just a few examples of pseudo-class selectors. There are many more available, and you can find more information on the W3Schools CSS Pseudo-classes: https://www.w3schools.com/css/css_pseudo_classes.asp page.
+
+ */
