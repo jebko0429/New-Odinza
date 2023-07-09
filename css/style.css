@@ -146,3 +146,16 @@ a:link {
 These are just a few examples of pseudo-class selectors. There are many more available, and you can find more information on the W3Schools CSS Pseudo-classes: https://www.w3schools.com/css/css_pseudo_classes.asp page.
 
  */
+
+html {
+  background-color: #00539f;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
