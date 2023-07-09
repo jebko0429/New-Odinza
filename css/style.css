@@ -1,5 +1,11 @@
 /*comments*/
 
+*.cc {
+	color: gray;
+
+}
+
+
 p {
 	color: gold;
         font-family: 'Tangerine', serif;
